@@ -1,0 +1,3 @@
+[submodule "primera_app"]
+	path = primera_app
+	url = https://github.com/Hydr0bius/primera_app.git
