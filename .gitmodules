@@ -1,3 +1,6 @@
 [submodule "primera_app"]
 	path = primera_app
 	url = https://github.com/Hydr0bius/primera_app.git
+[submodule "Practica-Lista-Tareas"]
+	path = Practica-Lista-Tareas
+	url = https://github.com/Hydr0bius/Practica-Lista-Tareas.git
