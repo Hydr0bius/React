@@ -4,3 +4,6 @@
 [submodule "Practica-Lista-Tareas"]
 	path = Practica-Lista-Tareas
 	url = https://github.com/Hydr0bius/Practica-Lista-Tareas.git
+[submodule "Practica03-FormularioRegistro"]
+	path = Practica03-FormularioRegistro
+	url = https://github.com/Hydr0bius/Practica03-FormularioRegistro.git
